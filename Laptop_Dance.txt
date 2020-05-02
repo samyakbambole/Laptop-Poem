@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 Step to the left,  
 Step to the Right,  
 Jump up and down,  
 Twirl your Hands , 
 Do the rainbow dance!
+=======
+Move to the left 
+Move to the Right 
+Jump up and down 
+Twirl your Hands 
+Do the rainbow dance
+>>>>>>> f6df675614e6e32bbc4ab400d007d6ce6e02ff53
